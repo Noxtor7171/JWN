@@ -1,3 +1,4 @@
+---
 name: Reminders
 about: Submit a reminder for a task or feature
 title: "[REMINDER]"
